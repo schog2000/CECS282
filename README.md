@@ -1,2 +1,2 @@
 # CECS282
- C++ Homework/Labs
+ C++ Homework/Projects
