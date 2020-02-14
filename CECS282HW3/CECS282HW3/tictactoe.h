@@ -14,7 +14,7 @@ void GetMove(int &row, int &col);
 // MoveIsValid returns true if the board is empty at the requested row/col,
 // and false otherwise. Used in main to see if the move is valid and alert
 // the user if it is not.
-bool MoveIsValid(const std::array<std::array<char, 3>, 3> &board, 
+bool MoveIsValid(const std::array<std::array<char, 3>, 3> &board,
     int row, int col);
 
 // CheckWinner returns looks to see if the game has a winner. It returns 
